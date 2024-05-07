@@ -120,5 +120,24 @@ amgg.borrowed_cars("cayman")
 amgg.return_car("cayman")
 
 
+O/P
+# New owners Tanuj added successfully
+# New owners jonny added successfully
+# The avaliable cars are mercedes amg 
+# The avaliable cars are ferrari
+# The car owners are {'Tanuj': {...}, 'jonny': {...}}
+# The car owners are {'Tanuj': {...}, 'jonny': {...}}
+# No car avaliable
+# cayman borrowed successfullr
+#  cayman has successfully been returned by john
+# gt3 borrowed successfullr
+# the cars left are cayenne 
+# the cars left are panamera 
+# the cars left are macan 
+# the cars left are boxster 
+# the cars left are taycan 
+# the cars left are cayman 
+
+
 
 
